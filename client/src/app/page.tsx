@@ -165,13 +165,13 @@ export default function Home() {
         <p className="text-gray-700 mb-6 text-center">Contact us today for personalized support!</p>
         <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4 mb-6">
           <a
-            href="tel:+919301726798"
+            href="tel:+9109016866"
             className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-all duration-300 transform hover:scale-105 text-center"
           >
             Call Now
           </a>
           <a
-            href="https://wa.me/919301726798"
+            href="https://wa.me/9109016866"
             className="bg-green-500 text-white px-6 py-3 rounded-lg hover:bg-green-600 transition-all duration-300 transform hover:scale-105 text-center"
           >
             Send WhatsApp
@@ -181,8 +181,8 @@ export default function Home() {
         <div className="text-gray-600 mt-6 text-center">
           <p>
             Phone:{' '}
-            <a href="tel:+919301726798" className="text-blue-600 hover:underline">
-              +91 93017 26798
+            <a href="tel:+9109016866" className="text-blue-600 hover:underline">
+              +91 91090 16866
             </a>
           </p>
           <p>

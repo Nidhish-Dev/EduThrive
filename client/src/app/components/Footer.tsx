@@ -6,7 +6,7 @@ export default function Footer() {
         <p className="mt-3 text-gray-100">
           Contact us:{' '}
           <a href="tel:+919301726798" className="hover:text-yellow-400 transition-all duration-200">
-            +91 93017 26798
+            +91 91090 16866
           </a>{' '}
           |{' '}
           <a href="mailto:support@eduthrive.com" className="hover:text-yellow-400 transition-all duration-200">
