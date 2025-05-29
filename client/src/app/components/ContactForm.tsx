@@ -66,7 +66,7 @@ export default function ContactForm() {
     }
 
     try {
-      const response = await fetch('http://localhost:8000/api/email/send', {
+      const response = await fetch('https://edu-thrive-mlaw.vercel.app/api/email/send', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',

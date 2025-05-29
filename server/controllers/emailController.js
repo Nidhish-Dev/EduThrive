@@ -19,14 +19,14 @@ exports.sendEmail = async (req, res) => {
 
   // Save to database
   try {
-    const newEmail = new Email({
-      name,
-      email,
-      college,
-      phone,
-      school,
-    });
-    await newEmail.save();
+    // const newEmail = new Email({
+    //   name,
+    //   email,
+    //   college,
+    //   phone,
+    //   school,
+    // });
+    // await newEmail.save();
 
     // Prepare email content
     const mailOptions = {
